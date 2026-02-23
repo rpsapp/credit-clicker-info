@@ -1,3 +1,7 @@
+---
+layout: default
+title: Terms and Conditions
+---
 # Terms and Conditions
 
 **App:** Credit Clicker
